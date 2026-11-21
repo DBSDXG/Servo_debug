@@ -1,0 +1,9 @@
+{
+  "baud": "115200",
+  "max_angle": 180,
+  "pwm_min": 500,
+  "pwm_max": 2500,
+  "autosend": true,
+  "hex_show": false,
+  "last_port": ""
+}
